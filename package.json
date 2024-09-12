@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jsdom": "^25.0.0",
+    "jspdf": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/jspdf": "^2.0.0",
+    "@types/node": "^22.5.4",
+    "stylelint-config-recommended": "^14.0.1"
+  }
+}
